@@ -1,0 +1,28 @@
+ .navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 4%;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* Adjust spacing between icons */
+}
+
+.logo-container img.logo{
+  width: max(10%,80px); /* Adjust size as needed */
+  height: auto;
+}
+
+.logo-container img.admin{
+  width: 20px; /* Adjust size as needed */
+  height: auto;
+}
+
+.navbar .profile{
+  width: 40px;
+}
+
+ 
