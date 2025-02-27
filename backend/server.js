@@ -20,10 +20,7 @@ app.use(cors());
 
 //db connection
 
-mongoose
-  .connect(process.env.MONGO_URI)
-  .then(() => console.log("MongoDB Connected"))
-  .catch((err) => console.log(err));
+connectDB();
 
 //api endpoints
 app.use("/api/food", foodRouter);
