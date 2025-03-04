@@ -114,7 +114,7 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## 💬 Let's Connect!
 📧 Email: [kvprashant52@gmail.com](mailto:kvprashant52@gmail.com)    
-👨‍💻 LinkedIn: [https://linkedin.com/in/kv-prashant-941a3914b/](https://www.linkedin.com/in/kv-prashant-941a3914b/))  
+👨‍💻 LinkedIn: [https://linkedin.com/in/kv-prashant-941a3914b/](https://www.linkedin.com/in/kv-prashant-941a3914b/)  
 
 ---
 
