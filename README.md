@@ -1,6 +1,6 @@
 # 🍔 Food Ordering & Delivery Web Application
 
-![Food Ordering App](https://your-image-url.com)
+![Food Ordering App](https://github.com/prashantji123/food-ordering-app/blob/main/home.png)
 
 ## 🚀 Overview
 A **modern food ordering and delivery web application** with a sleek UI, real-time order tracking, secure payments, and AI-powered features. Users can browse menus, place orders, and track deliveries seamlessly.
@@ -114,7 +114,7 @@ This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## 💬 Let's Connect!
 📧 Email: [kvprashant52@gmail.com](mailto:kvprashant52@gmail.com)    
-👨‍💻 LinkedIn: [Your Profile]([https://linkedin.com/in/kv-prashant-941a3914b/](https://www.linkedin.com/in/kv-prashant-941a3914b/))  
+👨‍💻 LinkedIn: [https://linkedin.com/in/kv-prashant-941a3914b/](https://www.linkedin.com/in/kv-prashant-941a3914b/))  
 
 ---
 
